@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# E.M.O veri dosyaları
+emo_veri_tabani.json
+emo_izinler.json
+emo_bilgisayar_analizi.json
+emo_kisisel_notlar.txt
+emo_ekran_goruntuleri/
+EMO_Gorsel_*.jpg
+EMO_Websitesi_*.html
+EMO_Video_Storyboard_*.txt
+emo_gecici_ses_*.mp3

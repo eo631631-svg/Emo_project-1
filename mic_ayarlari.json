@@ -1,0 +1,11 @@
+{
+  "cihaz_index": 2,
+  "cihaz_adi": "[2] Microphone Array (AMD Audio Dev",
+  "energy_threshold": 250,
+  "dynamic_energy": false,
+  "pause_threshold": 0.45,
+  "non_speaking_duration": 0.2,
+  "phrase_threshold": 0.15,
+  "operation_timeout": 5,
+  "tarih": "2026-09-29T00:13:39.310177"
+}

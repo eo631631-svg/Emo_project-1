@@ -1,0 +1,15 @@
+{
+    "soruldu": true,
+    "elle_secildi": true,
+    "onay_zamani": "28-09-2026 01:18:11",
+    "izinler": {
+        "sistem_bilgisi": true,
+        "yuklu_uygulamalar": true,
+        "dosya_okuma": true,
+        "dosya_yazma": true,
+        "komut_calistirma": true,
+        "girdi_kontrol": true,
+        "ekran": true,
+        "pano": true
+    }
+}

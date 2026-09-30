@@ -1,0 +1,4 @@
+[30-09-2026 13:25:08] Hareket algılandı, kayıt: hareket_20260930_132508.mp4
+[30-09-2026 13:25:33] Kayıt tamamlandı: hareket_20260930_132508.mp4
+[30-09-2026 16:34:11] Hareket algılandı, kayıt: hareket_20260930_163410.mp4
+[30-09-2026 16:34:39] Kayıt tamamlandı: hareket_20260930_163410.mp4

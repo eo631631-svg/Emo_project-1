@@ -1,0 +1,173 @@
+{
+    "zaman": "28-09-2026 01:42:18",
+    "atlanan_bolumler": [],
+    "temel": {
+        "bilgisayar_adi": "LAPTOP-7QJH0J99",
+        "isletim_sistemi": "Windows 11",
+        "surum": "10.0.26200",
+        "mimari": "AMD64",
+        "islemci": "AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD",
+        "pil": "%100 (Şarjda)",
+        "acik_kalma_suresi": "57dk",
+        "calisan_surec": 299,
+        "diskler": [
+            {
+                "surucu": "C:\\",
+                "dosya_sistemi": "NTFS",
+                "toplam_gb": 475.7,
+                "kullanilan_gb": 174.9,
+                "yuzde": 36.8
+            },
+            {
+                "surucu": "D:\\",
+                "dosya_sistemi": "FAT32",
+                "toplam_gb": 14.8,
+                "kullanilan_gb": 3.3,
+                "yuzde": 22.0
+            },
+            {
+                "surucu": "E:\\",
+                "dosya_sistemi": "NTFS",
+                "toplam_gb": 57.7,
+                "kullanilan_gb": 7.8,
+                "yuzde": 13.6
+            },
+            {
+                "surucu": "F:\\",
+                "dosya_sistemi": "FAT32",
+                "toplam_gb": 28.9,
+                "kullanilan_gb": 0.0,
+                "yuzde": 0.0
+            },
+            {
+                "surucu": "G:\\",
+                "dosya_sistemi": "FAT32",
+                "toplam_gb": 57.3,
+                "kullanilan_gb": 35.4,
+                "yuzde": 61.7
+            }
+        ],
+        "cekirdek": 12,
+        "fiziksel_cekirdek": 6,
+        "cpu_yuzde": 93.4,
+        "ram_toplam_gb": 7.3,
+        "ram_kullanilan_gb": 6.8,
+        "ram_yuzde": 93.2
+    },
+    "sistem": {
+        "islemci_adi": "AMD Ryzen 5 5500U with Radeon Graphics",
+        "ekran_karti": "AMD Radeon(TM) Graphics",
+        "sicaklik": "Yönetici İzni Gerekli",
+        "ag": [
+            "Yerel Ağ Bağlantısı* 11: 169.254.61.253",
+            "Yerel Ağ Bağlantısı* 12: 169.254.196.105",
+            "Wi-Fi 2: 192.168.1.40"
+        ],
+        "en_cok_bellek": [
+            "Code.exe (1251 MB)",
+            "Code.exe (353 MB)",
+            "Code.exe (322 MB)",
+            "python.exe (241 MB)",
+            "explorer.exe (192 MB)"
+        ]
+    },
+    "yuklu_uygulamalar": [
+        "Acer Configuration Manager",
+        "AcerSense Config",
+        "AcerSense Installer",
+        "AMD Chipset Software",
+        "AMD Privacy View",
+        "AMD Software",
+        "App Explorer",
+        "AutoCAD Open in Desktop",
+        "Autodesk Access",
+        "Autodesk App Manager",
+        "Autodesk AutoCAD 2026 - English",
+        "Autodesk AutoCAD 2026.1.1 Update",
+        "Autodesk Featured Apps",
+        "Autodesk Genuine Service",
+        "Autodesk Save to Web and Mobile",
+        "Brave",
+        "Care Center Service",
+        "Cloudflare WARP",
+        "Copilot",
+        "Google Play Games",
+        "IIS 10.0 Express",
+        "Kurumlar için Microsoft 365 Uygulamaları - tr-tr",
+        "Microsoft .NET SDK 10.0.302 (x64) from Visual Studio",
+        "Microsoft .NET SDK 10.0.401 (x64) from Visual Studio",
+        "Microsoft ASP.NET Core 8.0.31 - Shared Framework (x64)",
+        "Microsoft Edge",
+        "Microsoft GameInput",
+        "Microsoft OneDrive",
+        "Microsoft OneNote - tr-tr",
+        "Microsoft SQL Server 2025 LocalDB",
+        "Microsoft System CLR Types for SQL Server 2019",
+        "Microsoft Visual C++ 2005 Redistributable",
+        "Microsoft Visual C++ 2005 Redistributable (x64)",
+        "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+        "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+        "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+        "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+        "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+        "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+        "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+        "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+        "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+        "Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247",
+        "Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247",
+        "Microsoft Visual Studio Code (User)",
+        "Microsoft Visual Studio Installer",
+        "Microsoft Web Deploy 4.0",
+        "Microsoft Windows Application Compatibility Fix Database",
+        "Microsoft Windows Desktop Runtime - 6.0.36 (x86)",
+        "Microsoft Windows Desktop Runtime - 8.0.31 (x64)",
+        "Notepad++ (64-bit x64)",
+        "NVIDIA PhysX",
+        "Ollama version 0.34.4",
+        "Python 3.10.11 (64-bit)",
+        "Python 3.12.8 (64-bit)",
+        "Python Launcher",
+        "Realtek Audio Driver",
+        "TikTok",
+        "User Experience Improvement Program Service",
+        "Visual Studio Community 2026",
+        "VLC media player",
+        "vs_CoreEditorFonts",
+        "Wolfteam Turkiye",
+        "WPTx64",
+        "YouTube",
+        "YouTube Music"
+    ],
+    "baslangic": [
+        "OneDrive",
+        "RiotClient",
+        "AMDNoiseSuppression",
+        "Microsoft.Lists",
+        "electron.app.LM Studio",
+        "MicrosoftEdgeAutoLaunch_1E4BAC462ABB5FE492577DAC701576BA",
+        "SecurityHealth",
+        "RtkAudUService",
+        "Autodesk Access Service",
+        "Autodesk Access"
+    ],
+    "klasorler": {
+        "masaüstü": 0,
+        "belgeler": 5,
+        "indirilenler": 21
+    },
+    "aktif_izinler": [
+        "Sistem Bilgisi",
+        "Yüklü Uygulamalar",
+        "Dosya Okuma",
+        "Dosya Yazma",
+        "Komut Çalıştırma",
+        "Klavye Kontrolü",
+        "Ekran Görüntüsü",
+        "Pano"
+    ],
+    "oneriler": [
+        "RAM yüksek; gereksiz uygulamaları kapatın.",
+        "İşlemci yüksek yükte."
+    ]
+}
